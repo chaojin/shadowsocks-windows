@@ -36,7 +36,8 @@ Shadowsocks for Windows
 ## License
 
 Shadowsocks-windows is licensed under the [GPLv3](LICENSE.txt) license.
-Copyright (C) <2019>  <Chao Jin>
+Copyright (C) <2019>  Chao Jin chao_jin@hotmail.com
+
 ```
 BouncyCastle.NetCore (MIT)       https://github.com/chrishaly/bc-csharp
 Caseless.Fody (MIT)              https://github.com/Fody/Caseless
